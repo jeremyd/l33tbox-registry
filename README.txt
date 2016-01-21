@@ -1,0 +1,1 @@
+Docker registry ships with a default config of storage driver = filesystem.  This is unable to be overridden by ENV configuration.  This image defaults to S3 storage so that it can be fully configured by ENV.  Also using alpine linux for lightweight distro.

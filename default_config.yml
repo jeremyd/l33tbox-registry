@@ -1,0 +1,5 @@
+version: 0.1
+log:
+  level: debug
+storage:
+  s3:
